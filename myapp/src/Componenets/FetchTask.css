@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+.btn{
+    background-color: blue;
+    color: aliceblue;
+    padding: 10px 2px 10px 2px;
+    border-radius: 4px;
+    margin-top: 20px;
+}
+div{
+    background:gray;
+    padding: 1px;
+    text-align: center;
+}
+h1{
+    font-weight: bold;
+}
